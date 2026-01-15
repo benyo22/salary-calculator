@@ -1,6 +1,6 @@
 > 🇬🇧 English version below
 
-# 💸 Bérkalkulátor (Salary Calculator)
+# 💸 Bérkalkulátor
 
 Ez a projekt az **ELTE IK Kliensoldali webprogramozás** kurzusának első beadandó feladata. Az alkalmazás célja egy komplex bérkalkulátor megvalósítása React környezetben, amely képes kezelni a különböző magyar adókedvezményeket, és több családtag bérének együttes kezelését.
 
