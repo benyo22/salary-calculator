@@ -48,18 +48,22 @@ A projekt futtatásához szükséges a **Node.js** környezet.
    ```
 Az alkalmazás ezután elérhető a terminálban megjelenő címen (általában http://localhost:5173).
 
+## ⚠️ Jogi nyilatkozat
+
+Ez a projekt oktatási célokat szolgál. Nem nyújt jogilag pontos, teljes vagy naprakész fizetési vagy adószámításokat.
+
 ---
 
 ## English Version
 
- # 💸 Salary Calculator
+# 💸 Salary Calculator
 
 This project is the first assignment of the **ELTE IK Client-Side Web Programming** course.  
 The goal of the application is to implement a **comprehensive salary calculator** in a React environment, capable of handling various Hungarian tax benefits and managing the combined income of multiple family members.
 
 ---
 
-## ✨ Features
+### ✨ Features
 
 Based on the given requirements, the project implements the following functionality:
 
@@ -82,7 +86,7 @@ Based on the given requirements, the project implements the following functional
 
 ---
 
-## 🛠️ Technologies Used
+### 🛠️ Technologies Used
 
 - **React** – UI rendering and state management  
 - **Vite** – Fast development environment and build tool  
@@ -90,7 +94,7 @@ Based on the given requirements, the project implements the following functional
 
 ---
 
-## 🚀 Installation & Running
+### 🚀 Installation & Running
 
 Running the project requires a **Node.js** environment.
 
@@ -108,3 +112,7 @@ Running the project requires a **Node.js** environment.
     ```
 
 The application will then be available at the address shown in the terminal (typically http://localhost:5173).
+
+## ⚠️ Disclaimer
+
+This project was created for educational purposes. It does not provide legally accurate, complete, or up-to-date salary or tax calculations.
